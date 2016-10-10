@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/10/9 21:12:58。
+     1>项目“C:\Users\Jieli\Desktop\BPnetwork\BPnetwork\BPnetwork\BPnetwork.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bp.cpp main.cpp
+         bp.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         main.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jieli\Desktop\BPnetwork\BPnetwork\Debug\BPnetwork.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jieli\Desktop\BPnetwork\BPnetwork\Debug\BPnetwork.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jieli\Desktop\BPnetwork\BPnetwork\Debug\BPnetwork.lib" /MACHINE:X86 Debug\bp.obj
+         Debug\main.obj
+         BPnetwork.vcxproj -> C:\Users\Jieli\Desktop\BPnetwork\BPnetwork\Debug\BPnetwork.exe
+     1>已完成生成项目“C:\Users\Jieli\Desktop\BPnetwork\BPnetwork\BPnetwork\BPnetwork.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.81
